@@ -1,0 +1,30 @@
+{
+  "resource": "device.property",
+  "event": "report",
+  "event_time": "20250217T083248Z",
+  "event_time_ms": "2025-02-17T08:32:48.938Z",
+  "request_id": "57f53c8e-9f20-4ce8-aceb-83953391c6c2",
+  "notify_data": {
+    "header": {
+      "app_id": "d51bfac701644b9daa4363cf76c661af",
+      "device_id": "67ad95860c504e29c72b2436_watch88",
+      "node_id": "watch88",
+      "product_id": "67ad95860c504e29c72b2436",
+      "gateway_id": "67ad95860c504e29c72b2436_watch88"
+    },
+    "body": {
+      "services": [
+        {
+          "service_id": "watch_services",
+          "properties": {
+            "BodyTemp": 1,
+            "HeartRate": 87.6276,
+            "xueyang": 93.12909,
+            "BatteryPercentage": 6.9553375
+          },
+          "event_time": "20250217T083248Z"
+        }
+      ]
+    }
+  }
+}
