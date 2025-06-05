@@ -28,8 +28,8 @@ import com.zzyl.common.core.page.TableDataInfo;
 /**
  * 报警数据Controller
  * 
- * @author ruoyi
- * @date 2025-01-17
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @RestController
 @RequestMapping("/nursing/alertData")

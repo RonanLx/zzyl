@@ -6,7 +6,7 @@ import com.zzyl.system.domain.SysUserOnline;
 /**
  * 在线用户 服务层
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public interface ISysUserOnlineService
 {

@@ -9,8 +9,8 @@ import java.util.List;
 /**
  * 健康评估Service接口
  * 
- * @author ruoyi
- * @date 2024-09-16
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 public interface IHealthAssessmentService extends IService<HealthAssessment>
 {

@@ -22,7 +22,7 @@ import com.zzyl.framework.web.service.TokenService;
 /**
  * 自定义退出处理类 返回成功
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @Configuration
 public class LogoutSuccessHandlerImpl implements LogoutSuccessHandler

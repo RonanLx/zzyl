@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 入住详情响应模型
  *
- * @author itcast
+ * @author Ronan_JoJo
  * @create 2023/12/19 14:58
  **/
 @ApiModel(description = "入住详情响应模型")

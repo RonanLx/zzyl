@@ -6,7 +6,7 @@ import com.zzyl.common.core.domain.entity.SysDictData;
 /**
  * 字典 业务层
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public interface ISysDictDataService
 {

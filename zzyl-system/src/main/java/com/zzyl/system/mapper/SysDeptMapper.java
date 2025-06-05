@@ -7,7 +7,7 @@ import com.zzyl.common.core.domain.entity.SysDept;
 /**
  * 部门管理 数据层
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public interface SysDeptMapper
 {

@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * Entity基类
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @ApiModel("基类")
 public class BaseEntity implements Serializable

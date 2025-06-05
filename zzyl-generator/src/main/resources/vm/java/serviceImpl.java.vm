@@ -23,8 +23,8 @@ import java.util.Arrays;
 /**
  * ${functionName}Service业务层处理
  * 
- * @author ${author}
- * @date ${datetime}
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Service
 public class ${ClassName}ServiceImpl extends ServiceImpl<${ClassName}Mapper,${ClassName}> implements I${ClassName}Service

@@ -3,7 +3,7 @@ package com.zzyl.common.exception;
 /**
  * 演示模式异常
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public class DemoModeException extends RuntimeException
 {

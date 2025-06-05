@@ -16,7 +16,7 @@ import com.zzyl.common.utils.StringUtils;
 /**
  * 认证失败处理类 返回未授权
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @Component
 public class AuthenticationEntryPointImpl implements AuthenticationEntryPoint, Serializable

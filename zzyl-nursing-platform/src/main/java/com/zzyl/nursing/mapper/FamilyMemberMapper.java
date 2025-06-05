@@ -9,8 +9,8 @@ import java.util.List;
 /**
  * 老人家属Mapper接口
  * 
- * @author ruoyi
- * @date 2024-09-19
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface FamilyMemberMapper extends BaseMapper<FamilyMember>

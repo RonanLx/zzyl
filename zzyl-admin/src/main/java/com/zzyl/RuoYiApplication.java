@@ -8,7 +8,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 /**
  * 启动程序
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 //@ComponentScan({"com.zzyl.web","com.zzyl.nursing"})
 @SpringBootApplication(exclude = { DataSourceAutoConfiguration.class })

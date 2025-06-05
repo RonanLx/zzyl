@@ -9,8 +9,8 @@ import java.time.LocalDateTime;
 /**
  * 预约信息对象 reservation
  * 
- * @author ruoyi
- * @date 2024-06-07
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class Reservation extends BaseEntity

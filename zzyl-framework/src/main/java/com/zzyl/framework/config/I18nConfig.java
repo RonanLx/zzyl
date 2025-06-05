@@ -12,7 +12,7 @@ import com.zzyl.common.constant.Constants;
 /**
  * 资源文件配置加载
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @Configuration
 public class I18nConfig implements WebMvcConfigurer

@@ -12,8 +12,8 @@ import com.zzyl.nursing.vo.ProductVo;
 /**
  * 设备Service接口
  * 
- * @author ruoyi
- * @date 2025-01-14
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 public interface IDeviceService extends IService<Device>
 {

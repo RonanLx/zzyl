@@ -9,8 +9,8 @@ import java.util.List;
 /**
  * 护理计划Service接口
  * 
- * @author ruoyi
- * @date 2024-09-07
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 public interface INursingPlanService 
 {

@@ -7,8 +7,8 @@ import com.zzyl.common.core.domain.BaseEntity;
 /**
  * 报警规则对象 alert_rule
  * 
- * @author ruoyi
- * @date 2025-01-17
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class AlertRule extends BaseEntity

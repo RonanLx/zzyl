@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 申请入住请求模型
  *
- * @author itcast
+ * @author Ronan_JoJo
  * @create 2023/12/18 17:10
  **/
 @ApiModel(description = "申请入住请求模型")

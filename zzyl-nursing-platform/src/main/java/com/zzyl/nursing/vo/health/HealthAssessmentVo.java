@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  *  健康评估类
- * @author itheima
+ * @author Ronan_JoJo
  */
 @Data
 public class HealthAssessmentVo {

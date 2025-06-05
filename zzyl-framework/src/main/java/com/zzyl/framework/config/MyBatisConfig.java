@@ -27,7 +27,7 @@
 ///**
 // * Mybatis支持*匹配扫描包
 // *
-// * @author ruoyi
+// * @author Ronan_JoJo
 // */
 //@Configuration
 //public class MyBatisConfig

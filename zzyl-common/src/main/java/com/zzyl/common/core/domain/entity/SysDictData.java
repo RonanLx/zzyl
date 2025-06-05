@@ -13,7 +13,7 @@ import javax.validation.constraints.Size;
 /**
  * 字典数据表 sys_dict_data
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public class SysDictData extends BaseEntity
 {

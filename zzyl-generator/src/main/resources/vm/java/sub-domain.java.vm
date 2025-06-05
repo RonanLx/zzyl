@@ -11,8 +11,8 @@ import com.zzyl.common.core.domain.BaseEntity;
 /**
  * ${subTable.functionName}对象 ${subTableName}
  * 
- * @author ${author}
- * @date ${datetime}
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 public class ${subClassName} extends BaseEntity
 {

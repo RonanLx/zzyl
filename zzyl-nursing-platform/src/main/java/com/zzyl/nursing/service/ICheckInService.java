@@ -10,8 +10,8 @@ import java.util.List;
 /**
  * 入住Service接口
  * 
- * @author ruoyi
- * @date 2024-09-13
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 public interface ICheckInService extends IService<CheckIn>
 {

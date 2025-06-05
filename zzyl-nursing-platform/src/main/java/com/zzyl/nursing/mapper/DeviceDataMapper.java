@@ -11,8 +11,8 @@ import org.apache.ibatis.annotations.Param;
 /**
  * 设备数据Mapper接口
  * 
- * @author ruoyi
- * @date 2025-01-15
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface DeviceDataMapper extends BaseMapper<DeviceData>

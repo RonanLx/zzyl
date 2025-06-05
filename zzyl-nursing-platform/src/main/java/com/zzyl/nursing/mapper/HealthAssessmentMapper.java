@@ -9,8 +9,8 @@ import java.util.List;
 /**
  * 健康评估Mapper接口
  * 
- * @author ruoyi
- * @date 2024-09-16
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface HealthAssessmentMapper extends BaseMapper<HealthAssessment>

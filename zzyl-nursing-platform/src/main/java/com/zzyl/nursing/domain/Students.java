@@ -7,8 +7,8 @@ import com.zzyl.common.core.domain.BaseEntity;
 /**
  * 学生对象 students
  * 
- * @author ruoyi
- * @date 2025-01-13
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class Students extends BaseEntity

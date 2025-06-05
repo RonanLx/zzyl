@@ -9,8 +9,8 @@ import com.zzyl.common.core.domain.BaseEntity;
 /**
  * 报警数据对象 alert_data
  * 
- * @author ruoyi
- * @date 2025-01-17
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class AlertData extends BaseEntity

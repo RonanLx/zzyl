@@ -9,8 +9,8 @@ import java.util.List;
 /**
  * 床位Mapper接口
  * 
- * @author ruoyi
- * @date 2024-04-26
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface BedMapper extends BaseMapper<Bed>

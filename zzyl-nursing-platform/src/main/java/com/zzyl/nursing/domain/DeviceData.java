@@ -12,8 +12,8 @@ import lombok.NoArgsConstructor;
 /**
  * 设备数据对象 device_data
  * 
- * @author ruoyi
- * @date 2025-01-15
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 @Builder

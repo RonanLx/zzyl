@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 /**
  * 报警数据分页查询请求模型
  *
- * @author itcast
+ * @author Ronan_JoJo
  * @create 2023/12/5 18:54
  **/
 @Data

@@ -8,8 +8,8 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * 设备Mapper接口
  * 
- * @author ruoyi
- * @date 2025-01-14
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface DeviceMapper extends BaseMapper<Device>

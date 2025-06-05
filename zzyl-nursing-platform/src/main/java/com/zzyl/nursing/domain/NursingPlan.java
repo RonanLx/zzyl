@@ -7,8 +7,8 @@ import lombok.Data;
 /**
  * 护理计划对象 nursing_plan
  * 
- * @author ruoyi
- * @date 2024-09-07
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class NursingPlan extends BaseEntity

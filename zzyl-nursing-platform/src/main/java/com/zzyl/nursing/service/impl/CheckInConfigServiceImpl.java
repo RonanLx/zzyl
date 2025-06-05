@@ -12,8 +12,8 @@ import java.util.List;
 /**
  * 入住配置Service业务层处理
  * 
- * @author ruoyi
- * @date 2024-09-13
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Service
 public class CheckInConfigServiceImpl extends ServiceImpl<CheckInConfigMapper,CheckInConfig> implements ICheckInConfigService

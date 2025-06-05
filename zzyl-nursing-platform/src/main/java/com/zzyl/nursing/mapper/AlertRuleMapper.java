@@ -8,8 +8,8 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * 报警规则Mapper接口
  * 
- * @author ruoyi
- * @date 2025-01-17
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface AlertRuleMapper extends BaseMapper<AlertRule>

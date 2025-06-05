@@ -10,8 +10,8 @@ import java.util.List;
 /**
  * 老人家属Service接口
  * 
- * @author ruoyi
- * @date 2024-09-19
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 public interface IFamilyMemberService extends IService<FamilyMember>
 {

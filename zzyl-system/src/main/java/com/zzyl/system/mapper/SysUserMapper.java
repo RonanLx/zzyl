@@ -8,7 +8,7 @@ import org.apache.ibatis.annotations.Select;
 /**
  * 用户表 数据层
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public interface SysUserMapper
 {

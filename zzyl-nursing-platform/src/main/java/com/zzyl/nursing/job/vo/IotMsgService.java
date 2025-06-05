@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * amqp消息-service模块
  *
- * @author itcast
+ * @author Ronan_JoJo
  * @create 2024/1/16 10:22
  **/
 @Data

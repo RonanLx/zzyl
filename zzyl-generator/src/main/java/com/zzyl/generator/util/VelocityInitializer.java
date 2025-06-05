@@ -7,7 +7,7 @@ import com.zzyl.common.constant.Constants;
 /**
  * VelocityEngine工厂
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public class VelocityInitializer
 {

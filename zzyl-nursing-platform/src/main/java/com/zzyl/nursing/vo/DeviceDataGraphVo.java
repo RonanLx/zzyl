@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 设备数据曲线图响应模型
  *
- * @author itcast
+ * @author Ronan_JoJo
  * @create 2023/12/11 18:15
  **/
 @Data

@@ -16,8 +16,8 @@ import com.zzyl.common.core.domain.TreeEntity;
 /**
  * ${functionName}对象 ${tableName}
  * 
- * @author ${author}
- * @date ${datetime}
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 #if($table.crud || $table.sub)
 #set($Entity="BaseEntity")

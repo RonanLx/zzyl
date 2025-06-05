@@ -11,8 +11,8 @@ import java.util.List;
 /**
  * 客户老人关联Mapper接口
  * 
- * @author ruoyi
- * @date 2024-05-19
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface FamilyMemberElderMapper extends BaseMapper<FamilyMemberElder>

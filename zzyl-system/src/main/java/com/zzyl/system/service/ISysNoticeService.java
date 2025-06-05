@@ -6,7 +6,7 @@ import com.zzyl.system.domain.SysNotice;
 /**
  * 公告 服务层
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public interface ISysNoticeService
 {

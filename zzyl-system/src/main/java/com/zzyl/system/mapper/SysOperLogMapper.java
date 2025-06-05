@@ -6,7 +6,7 @@ import com.zzyl.system.domain.SysOperLog;
 /**
  * 操作日志 数据层
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public interface SysOperLogMapper
 {

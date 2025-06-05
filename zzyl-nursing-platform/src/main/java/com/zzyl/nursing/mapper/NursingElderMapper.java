@@ -14,8 +14,8 @@ import java.util.Set;
 /**
  * 护理员老人关联Mapper接口
  * 
- * @author ruoyi
- * @date 2024-05-28
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface NursingElderMapper extends BaseMapper<NursingElder>

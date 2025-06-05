@@ -39,7 +39,7 @@ import com.zzyl.generator.util.VelocityUtils;
 /**
  * 业务 服务层实现
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @Service
 public class GenTableServiceImpl implements IGenTableService

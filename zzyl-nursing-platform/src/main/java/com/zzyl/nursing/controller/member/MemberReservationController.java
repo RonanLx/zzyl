@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * 预约信息Controller
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @RestController
 @RequestMapping("/member/reservation")

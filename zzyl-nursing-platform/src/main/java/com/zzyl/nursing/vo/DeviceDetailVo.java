@@ -9,7 +9,7 @@ import lombok.Data;
 import java.time.LocalDateTime;
 
 /**
- * @author itcast
+ * @author Ronan_JoJo
  */
 @Data
 @ApiModel("设备详情响应模型")

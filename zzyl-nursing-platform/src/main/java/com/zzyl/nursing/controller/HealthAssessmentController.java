@@ -28,8 +28,8 @@ import java.util.concurrent.TimeUnit;
 /**
  * 健康评估Controller
  * 
- * @author ruoyi
- * @date 2024-09-16
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @RestController
 @RequestMapping("/nursing/healthAssessment")

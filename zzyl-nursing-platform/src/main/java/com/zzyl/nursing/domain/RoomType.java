@@ -9,8 +9,8 @@ import java.math.BigDecimal;
 /**
  * 房型对象 room_type
  * 
- * @author ruoyi
- * @date 2024-04-26
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class RoomType extends BaseEntity

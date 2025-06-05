@@ -9,8 +9,8 @@ import lombok.Data;
 /**
  * 床位对象 bed
  * 
- * @author ruoyi
- * @date 2024-04-26
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 @ApiModel("床位实体对象")

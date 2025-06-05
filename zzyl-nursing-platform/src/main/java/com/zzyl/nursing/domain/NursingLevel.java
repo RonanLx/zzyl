@@ -10,8 +10,8 @@ import java.math.BigDecimal;
 /**
  * 护理等级对象 nursing_level
  * 
- * @author ruoyi
- * @date 2024-09-07
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 public class NursingLevel extends BaseEntity
 {
