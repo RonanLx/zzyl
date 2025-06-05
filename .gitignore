@@ -45,3 +45,8 @@ nbdist/
 !*/build/*.java
 !*/build/*.html
 !*/build/*.xml
+
+# 忽略所有环境配置
+zzyl-admin/src/main/resources/application-*.yml
+zzyl-admin/src/main/resources/*.properties
+
