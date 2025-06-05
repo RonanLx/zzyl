@@ -10,8 +10,8 @@ import java.time.LocalDateTime;
 /**
  * 合同对象 contract
  * 
- * @author ruoyi
- * @date 2024-09-13
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class Contract extends BaseEntity

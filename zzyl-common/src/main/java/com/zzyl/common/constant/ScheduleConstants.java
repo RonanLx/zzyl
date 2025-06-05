@@ -3,7 +3,7 @@ package com.zzyl.common.constant;
 /**
  * 任务调度通用常量
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public class ScheduleConstants
 {

@@ -10,8 +10,8 @@ import lombok.NoArgsConstructor;
 /**
  * 老人家属对象 family_member
  * 
- * @author ruoyi
- * @date 2024-09-19
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 @AllArgsConstructor

@@ -20,7 +20,7 @@ import com.zzyl.framework.interceptor.RepeatSubmitInterceptor;
 /**
  * 通用配置
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @Configuration
 public class ResourcesConfig implements WebMvcConfigurer

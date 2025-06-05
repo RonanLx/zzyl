@@ -11,8 +11,8 @@ import java.util.List;
 /**
  * 护理项目Mapper接口
  * 
- * @author ruoyi
- * @date 2024-09-12
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface NursingProjectMapper extends BaseMapper<NursingProject>

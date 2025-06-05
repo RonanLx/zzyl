@@ -11,8 +11,8 @@ import com.zzyl.nursing.vo.NursingTaskVo;
 /**
  * 护理任务Service接口
  * 
- * @author ruoyi
- * @date 2024-09-27
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 public interface INursingTaskService extends IService<NursingTask>
 {

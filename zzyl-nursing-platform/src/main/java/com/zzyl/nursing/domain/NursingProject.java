@@ -9,8 +9,8 @@ import java.math.BigDecimal;
 /**
  * 护理项目对象 nursing_project
  * 
- * @author ruoyi
- * @date 2024-09-12
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class NursingProject extends BaseEntity

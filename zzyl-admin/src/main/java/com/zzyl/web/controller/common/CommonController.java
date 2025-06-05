@@ -27,7 +27,7 @@ import java.util.UUID;
 /**
  * 通用请求处理
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @RestController
 @RequestMapping("/common")

@@ -22,7 +22,7 @@ import com.zzyl.common.utils.ip.IpUtils;
 /**
  * 限流处理
  *
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @Aspect
 @Component

@@ -11,8 +11,8 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * ${functionName}Mapper接口
  * 
- * @author ${author}
- * @date ${datetime}
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface ${ClassName}Mapper extends BaseMapper<${ClassName}>

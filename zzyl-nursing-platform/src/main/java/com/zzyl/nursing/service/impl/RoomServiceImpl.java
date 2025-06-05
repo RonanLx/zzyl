@@ -20,8 +20,8 @@ import java.util.List;
 /**
  * 房间Service业务层处理
  *
- * @author ruoyi
- * @date 2024-04-26
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Service
 public class RoomServiceImpl extends ServiceImpl<RoomMapper, Room> implements IRoomService {

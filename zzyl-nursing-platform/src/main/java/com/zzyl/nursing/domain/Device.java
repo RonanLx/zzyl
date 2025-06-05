@@ -7,8 +7,8 @@ import com.zzyl.common.core.domain.BaseEntity;
 /**
  * 设备对象 device
  * 
- * @author ruoyi
- * @date 2025-01-14
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class Device extends BaseEntity

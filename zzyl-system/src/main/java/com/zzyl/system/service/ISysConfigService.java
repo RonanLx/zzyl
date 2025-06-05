@@ -6,7 +6,7 @@ import com.zzyl.system.domain.SysConfig;
 /**
  * 参数配置 服务层
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public interface ISysConfigService
 {

@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 体检报告
- * @author itheima
+ * @author Ronan_JoJo
  */
 @Data
 public class HealthReportVo {

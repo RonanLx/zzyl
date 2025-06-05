@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * amqp消息-header部分
  *
- * @author itcast
+ * @author Ronan_JoJo
  * @create 2024/1/16 10:00
  **/
 @Data

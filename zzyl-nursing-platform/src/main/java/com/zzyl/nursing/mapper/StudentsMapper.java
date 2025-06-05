@@ -8,8 +8,8 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * 学生Mapper接口
  * 
- * @author ruoyi
- * @date 2025-01-13
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface StudentsMapper extends BaseMapper<Students>

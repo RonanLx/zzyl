@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * amqp订阅消息
  *
- * @author itcast
+ * @author Ronan_JoJo
  */
 @Data
 public class IotMsgNotifyData {

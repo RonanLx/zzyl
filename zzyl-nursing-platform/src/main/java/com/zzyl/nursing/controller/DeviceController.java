@@ -19,8 +19,8 @@ import java.util.List;
 /**
  * 设备Controller
  * 
- * @author ruoyi
- * @date 2025-01-14
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @RestController
 @RequestMapping("/nursing/device")

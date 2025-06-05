@@ -3,7 +3,7 @@ package com.zzyl.common.constant;
 /**
  * 用户常量信息
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public class UserConstants
 {

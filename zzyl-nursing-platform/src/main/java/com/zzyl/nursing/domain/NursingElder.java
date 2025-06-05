@@ -7,8 +7,8 @@ import lombok.Data;
 /**
  * 护理员老人关联对象 nursing_elder
  * 
- * @author ruoyi
- * @date 2024-05-28
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class NursingElder extends BaseEntity

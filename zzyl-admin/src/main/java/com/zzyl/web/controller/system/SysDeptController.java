@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * 部门信息
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @RestController
 @RequestMapping("/system/dept")

@@ -7,7 +7,7 @@ import lombok.Data;
 /**
  * 产品信息响应模型
  *
- * @author itcast
+ * @author Ronan_JoJo
  **/
 @Data
 @ApiModel("产品信息响应模型")

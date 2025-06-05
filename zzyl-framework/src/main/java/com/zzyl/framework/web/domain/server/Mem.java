@@ -5,7 +5,7 @@ import com.zzyl.common.utils.Arith;
 /**
  * 內存相关信息
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public class Mem
 {

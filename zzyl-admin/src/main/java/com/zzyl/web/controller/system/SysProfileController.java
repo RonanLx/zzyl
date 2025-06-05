@@ -20,7 +20,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 个人信息 业务处理
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @RestController
 @RequestMapping("/system/user/profile")

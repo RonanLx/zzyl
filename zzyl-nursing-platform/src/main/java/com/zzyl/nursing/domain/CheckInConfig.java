@@ -11,8 +11,8 @@ import java.time.LocalDateTime;
 /**
  * 入住配置对象 check_in_config
  * 
- * @author ruoyi
- * @date 2024-09-13
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class CheckInConfig extends BaseEntity

@@ -10,8 +10,8 @@ import java.util.List;
 /**
  * 护理项目Service接口
  * 
- * @author ruoyi
- * @date 2024-09-12
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 public interface INursingProjectService extends IService<NursingProject>
 {

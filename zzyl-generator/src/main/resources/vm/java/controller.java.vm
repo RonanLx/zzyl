@@ -31,8 +31,8 @@ import com.zzyl.common.core.page.TableDataInfo;
 /**
  * ${functionName}Controller
  * 
- * @author ${author}
- * @date ${datetime}
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @RestController
 @RequestMapping("/${moduleName}/${businessName}")

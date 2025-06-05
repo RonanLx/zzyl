@@ -5,7 +5,7 @@ import com.zzyl.common.exception.base.BaseException;
 /**
  * 文件信息异常类
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public class FileException extends BaseException
 {

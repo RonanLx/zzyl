@@ -21,8 +21,8 @@ import java.util.List;
 /**
  * 老人Controller
  * 
- * @author ruoyi
- * @date 2024-09-13
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @RestController
 @RequestMapping("/nursing/elder")

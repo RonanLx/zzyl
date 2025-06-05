@@ -6,7 +6,7 @@ import com.zzyl.system.domain.SysPost;
 /**
  * 岗位信息 数据层
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public interface SysPostMapper
 {

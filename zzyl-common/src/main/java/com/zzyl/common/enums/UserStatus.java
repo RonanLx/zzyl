@@ -3,7 +3,7 @@ package com.zzyl.common.enums;
 /**
  * 用户状态
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public enum UserStatus
 {

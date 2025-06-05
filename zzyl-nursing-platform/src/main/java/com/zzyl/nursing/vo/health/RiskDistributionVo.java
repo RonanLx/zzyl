@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * 风险分布类
- * @author itheima
+ * @author Ronan_JoJo
  */
 @Data
 public class RiskDistributionVo {

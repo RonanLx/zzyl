@@ -21,8 +21,8 @@ import java.util.List;
 /**
  * 健康评估Service业务层处理
  * 
- * @author ruoyi
- * @date 2024-09-16
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Service
 public class HealthAssessmentServiceImpl extends ServiceImpl<HealthAssessmentMapper,HealthAssessment> implements IHealthAssessmentService

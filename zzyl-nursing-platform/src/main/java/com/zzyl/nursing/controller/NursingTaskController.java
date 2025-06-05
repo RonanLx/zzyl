@@ -22,8 +22,8 @@ import org.springframework.web.bind.annotation.*;
 /**
  * 护理任务Controller
  * 
- * @author ruoyi
- * @date 2024-09-27
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @RestController
 @RequestMapping("/nursing/nursingTask")

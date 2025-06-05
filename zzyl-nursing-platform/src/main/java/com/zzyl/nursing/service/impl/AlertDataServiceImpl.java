@@ -12,8 +12,8 @@ import java.util.Arrays;
 /**
  * 报警数据Service业务层处理
  * 
- * @author ruoyi
- * @date 2025-01-17
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Service
 public class AlertDataServiceImpl extends ServiceImpl<AlertDataMapper,AlertData> implements IAlertDataService

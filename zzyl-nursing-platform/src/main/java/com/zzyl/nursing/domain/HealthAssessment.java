@@ -10,8 +10,8 @@ import java.time.LocalDateTime;
 /**
  * 健康评估对象 health_assessment
  * 
- * @author ruoyi
- * @date 2024-09-16
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Data
 public class HealthAssessment extends BaseEntity

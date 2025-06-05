@@ -7,7 +7,7 @@ import lombok.Data;
 /**
  * 老人入住请求模型
  *
- * @author itcast
+ * @author Ronan_JoJo
  * @create 2023/12/18 18:44
  **/
 @ApiModel(description = "老人入住请求模型")

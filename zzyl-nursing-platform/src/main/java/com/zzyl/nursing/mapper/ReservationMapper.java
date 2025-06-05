@@ -12,8 +12,8 @@ import java.util.List;
 /**
  * 预约信息Mapper接口
  * 
- * @author ruoyi
- * @date 2024-06-07
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 @Mapper
 public interface ReservationMapper extends BaseMapper<Reservation>

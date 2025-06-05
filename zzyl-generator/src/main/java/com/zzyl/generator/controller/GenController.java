@@ -38,7 +38,7 @@ import com.zzyl.generator.service.IGenTableService;
 /**
  * 代码生成 操作处理
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @RestController
 @RequestMapping("/tool/gen")

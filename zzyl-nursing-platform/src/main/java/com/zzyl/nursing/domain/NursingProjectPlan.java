@@ -8,8 +8,8 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 /**
  * 护理计划和项目关联对象 nursing_project_plan
  * 
- * @author ruoyi
- * @date 2024-09-09
+ * @author Ronan_JoJo
+ * @date 2025-06-05
  */
 public class NursingProjectPlan extends BaseEntity
 {

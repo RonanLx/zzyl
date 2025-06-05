@@ -34,7 +34,7 @@ import com.zzyl.system.service.ISysUserService;
 /**
  * 用户 业务层处理
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @Service
 public class SysUserServiceImpl implements ISysUserService

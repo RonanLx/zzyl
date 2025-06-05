@@ -3,7 +3,7 @@ package com.zzyl.framework.web.domain.server;
 /**
  * 系统相关信息
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public class Sys
 {

@@ -3,7 +3,7 @@ package com.zzyl.common.exception;
 /**
  * 全局异常
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 public class GlobalException extends RuntimeException
 {

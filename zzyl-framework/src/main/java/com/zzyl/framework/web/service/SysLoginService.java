@@ -32,7 +32,7 @@ import com.zzyl.system.service.ISysUserService;
 /**
  * 登录校验方法
  * 
- * @author ruoyi
+ * @author Ronan_JoJo
  */
 @Component
 public class SysLoginService
